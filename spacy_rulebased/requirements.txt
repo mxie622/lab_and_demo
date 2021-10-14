@@ -1,0 +1,10 @@
+numpy
+pandas
+spacy
+sklearn
+IPython.display
+random
+datetime
+plac
+json
+pathlib

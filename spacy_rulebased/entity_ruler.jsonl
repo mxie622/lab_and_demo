@@ -1,0 +1,23 @@
+{"label":"PROGLANG","pattern":[{"LOWER":"ruby"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":{"REGEX":"(ruby\\d+\\.?\\d*.?\\d*)"}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"ruby"},{"TEXT":{"REGEX":"(\\d+\\.?\\d*.?\\d*)"}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"php"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":{"REGEX":"(php\\d+\\.?\\d*.?\\d*)"}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"php"},{"TEXT":{"REGEX":"(\\d+\\.?\\d*.?\\d*)"}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"objective"},{"IS_PUNCT":true,"OP":"?"},{"LOWER":"c"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"objectivec"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"ruby"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":{"IN":["java","js","javascript"]}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":{"IN":["go","golang"]},"POS":{"NOT_IN":["VERB"]}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"python"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":{"IN":[".net","net"]}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"perl"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"php"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"c"},{"LOWER":"sharp"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":{"IN":["c#","c #","C#","C #"]}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"c"},{"LOWER":"#"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"c"},{"LOWER":"-"},{"LOWER":"sharp"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"asp.net"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":{"IN":["cpp","c++"]}}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"lisp"}]}
+{"label":"PROGLANG","pattern":[{"LOWER":"sql"}]}
