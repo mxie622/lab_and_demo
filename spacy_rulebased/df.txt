@@ -1,0 +1,1000 @@
+load listbox value to multivalue listbox in jquery
+Mysql Folders and Documents
+Zend Framework can't find Model
+Texture rendering and VBO's [OpenGL/SDL/C++]
+Serious issue with starting application in QtCreator
+Webhooks for Amazon MWS
+Python: py2exe loses file path information
+Advertising in the Brightcove iOS SDK
+c#_Devexpress set datatable to gridControl
+Put link on img / Javascript
+draw X letter shape using asterisk(*)
+MediaElement.js stop autoplay in a page
+MVVMCross Exception when inflating a Layout with binding
+can't send emails on android 3.2
+Storing complex data structures in PHP's Shared Memory
+C++ Proposal Function Returning A Type
+D3 touch screen vs mouse usage issue
+Jmeter : How to test a website to render a page regardless of the content
+Matlab datenum confuses between buddhist year and christian year
+how to eliminate any number after the floating point?
+powershell script to read folders in directory and output to file and modify to create AD group
+Database change via SMS (twilio?)
+find position of <li>
+Can't seem to pass variable using select_tag
+android google maps markers, info windows
+Is it possible to automatically send SMS's from an iPhone App other than the native text message app?
+Multiple word search in field
+PostGreSQL without password prompt : .pgpass ignored
+Set Canvas size using javascript
+How to block a particular resource from loading in webview
+ShareActionProvider without menu or actionbar
+how to show chart after clicking on button in flex?
+How to pause background player in iOS
+Trying to copy the pointer to a list, getting "cannot convert ... to ... in initialization" error
+Reading other application database in rooted device
+Apache, Django. Forbidden You don't have permission to access / on this server
+How to programmatically obtain OAuth2 client credentials for Google API
+How to attach a listener like oncomplete to p:button
+Retreiving data from sql server 2008 to ASP.NET MVC 4 either by using Stored procedure or Entity framework
+Automatically click website buttons like selenium
+Need to Change Selected Database without re-doing all of my formulas
+Linear layout displays squares instead of circles for big sized dots (.)
+Swift posting to Facebook not working?
+How To Build a Template Framework for Joomla?
+What's the best client architecture for Flash Remoting communicating with ASP.Net?
+Inserting special chars (such as ' or +) into an Access database
+Include raw XML when deserializing XML
+Replacing DisplayNameFor() with LabelFor() in MVC(Razor) giving error
+how can i get an object name when it is created in java?
+jQuery css3 background-size
+Float 2 divs in a parent div and arrange such divs one below another
+Get full path to file while debugging using IIS Express
+bootstrap datepicker from eternicode not selecting date
+How to mediate a SWF-Flashfile using a PHP mediating a.k.a. HTTP-Pseudostreaming script?
+Toggle DIV and close the gap
+Glassfish and eclipse - Getting unexpected Null pointer exception
+webservice call error in tomcat
+Convert Jagged Array to IEnumerable<KeyValuePair<int,int>>?
+SWT StyledText getCaretOffset giving wrong line number
+How to open Excel-workbooks without the message The workbook contains links to other data sources. programmatically?
+tablediff tool takes very long time to execute
+Google Chart Tools doesn't draw chart / failed drawing chart
+how range the main screen's icons when switch between two languages?
+Tomcat server doesn't set secure flag on session id
+Objective-C code recognized as Swift code in Swift project
+Can I constrain a HashMap by the amount of memory it takes up?
+Restful Web Service Cannot access WADL
+Save NSWindow Size on Resize & Close For User
+How to make a SetOnClickListener only happening when its EditText's are diferent from zero
+Delete Row In Data Frame And Have That Work Across Functions - Reference Variable?
+authorization in JSF2
+Loop script through all subdirectories in current directory?
+How do I setup MSSQL User Authentication with Ruby on Rails?
+OracleBulkCopy ORA-26041 Error Leap Year in 1932
+asp.net web api controllers accept POCO or generic data
+Use of quotes within get function (get())
+Android nine patch - allow only a specific area of a background drawable to stretch
+Extract text from a ajax response which contains <tag>
+Activity leaked window after pressing OK in AlertDialog
+Doctrine Many-to-many - how to access join(pivot) table?
+highcharts basic line with json for multiple y axes
+How to draw half of pie in QGraphicsItem
+Anchor on top of <video> not working on iPad
+How to prevent vertical sizers from expanding their children all the way downwards in wxformbuilder
+Access iphone device login mail in my application
+Notify Android Users
+C++ hooking a function in an application
+Image Buttons onchange when clicked in SAPUI5?
+Custom google map on contact page in wordpress
+Python 3 variable list difference
+why My application is getting The ConnectionString property has not been initialized error daily?
+Filemaker type environment for MySQL dvelopment : reccomendations please
+Image not respecting the size of it's parents
+adding space between x axis and xtics in gnuplot histogram
+Json and ListView in android crashes
+why entity manager is not thread safe in container manage?
+C11 and C++11 problems in Sublime Text 3
+Need way to display iPhone addressbook contacts
+How do I control when a contextMenuStrip is displayed?
+video upload with paperclip to a fold by path but can not show in view by url ruby on rails
+Python Regex 'not' to identify pattern within <a></a>
+Can a submit button work without refresh AJAX?
+Add reference to script task in ssis
+How to call async task by using .ContinueWith
+make a total list of a returned map (python)
+Custom color class not working as a Dictionary Key
+remove from table 2 if not in table 1, based on 2 fields
+CUDA device properties for GTX 970
+external dll visual studio C# error
+Change journal operations in .NET?
+Read Exit Code from VBS Script through Process in C#
+Select images having a specific onmouseover call using jQuery
+Classcast Exception while dealing with custom imageview
+Trying to remove background and make it transparent in c++, using magick++
+MAX LOCS PER TRANSCATION in Postgres
+Setting anchor stops resizing of Windows Form
+I keep getting error 422 when trying to start process instance using REST API
+Rails/MySQL query to get the count when joining multiple tables
+How to debug on device with MonoDevelop and MonoTouch?
+How can I export a table and import the data to other table?
+JSON parsing of Google Maps API in Android App
+SpeechSynthesizer in windows phone 8
+Sequence current value changed to its previous value without reset in sql
+(iOS & Xcode)How can I do somthing before I tap the Button of a segmentControl?
+ConsoleCancelEventHandler - can't enter it when Ctrl+C is pressed
+How to use while loop in CASE statements?
+Excel VBA Late Bind to Access and SQL Insert
+How to create a tagging system with NHibernate (many to many)
+Prevent FragmentStatePagerAdapter to not destroy fragments
+Make scrollView page show text in array
+Finding an LL(1) grammar?
+How to find that notification view is expanded or not
+How to view multiple data in data grid view column c#
+QList + QVariant + dbus, what difference?
+Add function to individual XmlListModel items
+Why does firefox keep highlighting my drop down menu links? Possibly CSS/JQuery related
+can socket.getInputStream().read() read all data after keep send without read()?
+Problems starting mod_geoip
+How can I determine the Model by extracting the name of another Model?
+facebook application only accessible by my user account
+Command line for loop logging
+Twig: how to check if a variable is a DateTime object
+simultaneous tomcat cluster where each node in the cluster serves different data
+Access to disposed closure in C#?
+How to pick up header info (e.g. subject) from an email received via an HTTP Post
+User Tracking to my website
+Why won't the GC automatically dispose my class's members?
+How to remove whitespace between a <td> tag until the string?
+java.lang.NullPointerException: println needs a message android database error
+Want to rotate element in jquery
+How to skip non-array variables from array_key_exists() in foreach loop
+Scala Macros: Method overloading
+WebRTC DTLS-SRTP OpenSSL Server Handshake Failure
+Why destructors are not called in reverse order for array of objects?
+NSArray -> Find closest value - fastest way
+OWin Startup attribute not found error on Web API REST Request
+LINQ query to select records from table where 2 columns have max values
+Laravel3: Loading a content inside a content dynamically
+HTML list formatting
+JSPerf test case giving errors but works fine on codepen
+Blur background when I pause my game in SpriteKit
+Ls command KornShell
+Strange characters in neo4j REST response
+Example of Sharpsign Equal-Sign reader macro?
+Oracle Schema upgrade with new constraint- how can I reduce upgrade down time?
+Race conditions in AnnotationModel? Error annotations lost in Reconciler
+date/gmdate returns wrong week number
+Simple left shifting with C#
+Cannot seem to use import time and import datetime in same script in Python
+Using realloc in c++
+prevent builtwith.com showing what my site is built with
+Why not static const references on class member variables?
+Creating custom Django REST url using multiple fields
+How do I draw multiple CGContextRefs to -drawRect?
+CoreLocation iOS Swift Region Boundary Radius Define
+R, corrplot not blanking insig
+Kendo grid inside splitter next page
+Using HTTPS to encrypt data sent from mobile
+How would I structure a program that determines the next bus depart?
+jquery UI draggable x-axis on child div, y-axis on parent
+Can i avoid the "Internet Explorer restricted this webpage from running scripts or ActiveX Controls" message?
+How do you merge two cells if another cell contains certain strings?
+How to get user input using cocos2d
+Behavior of exec function in Python 2 and Python 3
+Add UIButton in UIWebview in iOS
+what's the difference between pthread in /lib64/libc.so.6 with /usr/lib/libpthread.a?
+loading Java classes from a signed applet
+URI Segment with Question Mark
+Netty 4 read/write in handler multiple times
+C# Odd method call casting
+My isa-swizzling breaks KVO
+encodeURIComponent in AngularJS $http service
+Python - multiple copies of output when using multiprocessing
+What is the advantage of using memset() in C
+Consuming Web service from Android Application
+Trying to hide fixed navigation bar behind cover image while scrolling with z-index
+chown command returning Operation not permitted
+How to use joins in a scope?
+Confused on some webBrowser functions
+Can you transfer one Android app to another and "merge" them?
+Importing project from computer to GitHub repository
+Video Live Streaming
+Javascript client for REST API
+Knockout observables: Manually apply extenders
+find all by name query consult
+Handle clicks in table view cell
+@model.map(&:attributes) and virtual attributes
+How to shrink image to disappear gradually in WPF DoubleAnimation
+Asp.Net web app read query performance
+Matching text with regex/python - remove "=/r/" at line breaks
+Function for saving data does not work in php
+Django Context Processor and Form variables
+VS 2012 Project Compile errors over seven missing .cs files
+How to ignore time in NSPredicate?
+Bounded Knapsack Problem set-up. Want: a list of all possible packings
+How To Add Storyboard Constraints For Equal Spaced Buttons
+Too many arguments in BeginXXX for FromAsync?
+MonoTouch: Symbolicate Crash
+Most elegant UI for categorizing items?
+SharePoint Designer 2010 removes onmouseover from code when saved
+Explanation on const in Objective-C
+Meteor: JSON doesn't match SimpleSchema
+Error with for loops
+Cakephp relationship in three tables
+Porting ionic sidemenu project to meteor
+jQuery UI not working correctly in ASP.NET context
+why ng-bind doesn't show values from rootScope set by ng-click
+dynamic programming practice algorithm
+Loading data from List Box to Picture Box
+Custom Configuration Section in system.web
+Workflow/tools for frontend javascript development/test and production?
+SqlCommand.Prepare() is not working
+WordPress Menu highlight with pagination
+facebook loginbutton on wp8 issues
+Is it possible to develop a windows application using PHP?
+Bad conversion of integer into a string using integer'image
+Using booleans to format strings in XSLT
+NullPointerException outside of volley method
+Joining table with multiple fields in Sql where one field needs to be summed
+Zooming a retrieved image from the remote server if tapped - Android
+A Numerical Computing Library for C
+how to use google safe browsing api to check if an URL is safe to visit in android application
+API to write huge excel files using java
+How to specific rows from a split list in R based on column condition
+Java source code attribute counting for detection
+C#: How can I access the fields of an object from implicit operator overloading code?
+PHP Array of Dates from ISO Week
+How to detect useless Delphi units in the interface and implementation uses clauses?
+Specified string to DateTime
+Removing everything after a character in a column in R
+Read .csv - Separator Issues
+SqlServer clustered index storage ( >1 columns )?
+Spring boot with jetty 9 and ssl
+How to compute scores from script_fields in elasticsearch?
+How to change text of a cell at runtime in XtraReport?
+Invoking setText() through reflection only if an object has an specific annotaion
+Efficiency of Hibernate's table-per-subclass inheritance strategy
+I want to use MemoryStream replace FileStream
+Gin - Go lang How to use Context.Request.Body and retain it?
+Hide output of cmd command inside powershell
+Is WebBrowser.Stop() then WebBrowser.Navigate() Redundant?
+Checking and setting cookie in a function
+What if we don't host our silverlight Application when we first Create it?
+How to not allow typing 'space' in UITextView?
+How to access the returned results from controller
+A Way in Knitr to Copy a Chunk?
+Confused by this error tweepy: Failed to send request: Headers indicate a formencoded body but body was not decodable
+ActionBar icons not showing after the update of Android Studio
+Time Difference in Siebel Application and Database
+CUDA/Thrust double pointer problem (vector of pointers)
+PostgreSql and retrieving real time business statistics leads to too long queries : a solution?
+Problems writing script for blackjack game
+Django-nose won't run individual TestCase classes
+How to refresh a Button Property inside a ListBox
+Finding a 'Number'
+SWFUpload working fine but not on Windows Server 2012
+Yii2 assets clear cache
+Concurrent Moving Average Window in Java using a Queue?
+Local subdomain rerouting to XAMPP default page
+Qt 3rd Party Library Static Linking (QtSerialPort)
+How can I log the GPS use of Android Apps?
+startMonitoringSignificantLocationChanges never receives location on iOS8
+Finding the value of an xml element with a given attribute value with JavaScript only
+Is there a way to do a select statement and union 2 column, replacing any NULL values in one with information from the other
+Dustjs Recursion Template Error
+How should I upgrade Xcode after upgrading to OS X Lion?
+AS3: 3D axes rotation
+Securly download file inside browser with correct filename
+Excel Calculate time in time blocks
+Show hide elements
+Can I do intent in a fragment like this?
+Ruby on Rails 3 Beta: On ajax get request, I can't respond back with the html.erb view. Is there a work-around?
+Error installing RedCloth on Rails 3.0.3 and RVM on Ubuntu 10.10
+Why can't an identifier begin with a digit in java
+Accidentally stopped command in middle of git checkout how do I recover
+How to get visitor browser type and OS on apache
+python string differences
+Guzzle throws 401 or 406 exception
+Django user creation fails in the admin when filling profile fields
+Convert a byte[] to Image without using a MemoryStream
+filter en ng-repeat when datas are defered bu rootscop
+Dynamically Generated Razor Sections
+Play Store Beta Testing, Android Keystore, and Hired Developer
+Static allocation in C language
+appending associative array to another array
+How to optimize this OO design in Hibernate ORM?
+PIP not working in Pythonxy?
+Encrypt all data with nodejs + angularjs + mongoose
+Deploying Flask app on EC2 for localhost access
+"1 unresolved externals" C++
+jquery inline editor help
+report export no work on user's pc
+OOP Reuse without Inheritance: How "real-world" practical is this?
+OpenGL paint strange behavior on virtual machine
+Stored procedure - list of strings as an out variable. How do I do this?
+Why I can't reference to WITH expression more than one time?
+How do I convert a binary array to its 2's complement?
+How to set Xamarin iOS navigation and status bar color
+Python's datetime strptime() inconsistent between machines
+Raphael Object Width
+Should I use tcmalloc/jemalloc replace memory pool?
+Best ascii art documentation in source code comment
+.subString method not working correctly, Java
+How to Add New Row/Column
+Hover Scroll Div Parallax
+iPhone App Quits on Launch Without Crash Log
+Why there's no "descendingIterator ()" in SortedSet but it is in TreeSet?
+Models/Controller variables - Laravel
+Configuration files in PHP ( XML vs YAML vs PHP files )
+Post build event execute powershell
+Android crashes when using OpenCV from activity
+Ways to assign value to variable
+Paged ASP.NET repeater
+Assign a Click function to a select element styled with Dropkick jQuery plugin
+Understanding nested PHP ternary operator
+deploy error - ServletWrapper failed: java.lang.NoSuchMethodError: javax.persistence.OneToMany.orphanRemoval()Z
+Time complexity in Divide and conquer algorithms
+How to create login functionality in laravel 4.2
+Getting a MySQL column whose name isn't defined in my table
+python forloop accessing GPIO pins
+RSA Encryption Failed with Error Code = -2146893819
+Parsing json array within an object using xcode
+Nested, styled spans render differently in Chrome/Firefox: bug or feature?
+How to change focus from treeview node to control using c#?
+Best practice to store client certificates?
+How to determine ciphers to use (addressing logjam exploit)
+How do you vertically center text with an image in a div element?
+How to version control a subdirectory of a Mercurial repo simultaneously in a CVS?
+networkstream only sends data to the last IP connected to the server
+.NET equivalent of Android SDK's AsyncTask (i need to display a progress bar while executing operations on a backround thread)
+is there XSS risk when a page outputs 500 error?
+Create a ruby hash with special characters in the key, new syntax
+Performing jQuery only when all fields are full, or changed after load
+tan 45 gives me 0.9999
+How do I stop evaluating a list of functions once I've caught an exception
+Combining HybridAuth with Javascript SDKs?
+What C++ IDEs on Linux have "intellisense" in par with, or better, than Visual Studio?
+Proper Approach for Custom URL's with DNN 7.1.2 and Advanced URL
+Content from Website to iPhone App
+Play 2 - Scala - Forms Validators and radio buttons
+jpa entity complex key error
+Perl program to mimic restriction enzymes using references, hash tables and subs
+Largest elements in an array
+Creating a Stored Procedure in MySQL using C# code
+Custom calendar view with dates highlights and events marked
+P/Inovke parameters offset by 32 bits when compiled in 64 bit
+Why can't I dynamic_cast this object?
+How to decode base64 string as HTML content in XSLT?
+Django UpdateView with ImageField attribute
+Invalid ToolChain Submitting IOS App
+asp.net button click w/ javascript "are you sure?" prior to post back
+Socket Status when network interface is down
+PHP force File downloads without applying headers
+Netsh change IP address of network adapter in windows server 2012 - error
+Force javamailsender to authenticate
+Access VBA Dimension only storing expected value the first time it is run
+Objective C Static Analysis with custom linter rules?
+cant use variable counter inside loop
+Unexpected Validate behavior with Moq
+Is it possible to delete documents in Apache CouchDB's temporary view?
+Search an Oracle table in PHP
+New instance with filled in fields
+Is it possible to emulate direct state access?
+Unix IFS unable to set and put key/value data into array
+Adding panels using button handler in Sencha Touch
+Passing a pointer to an array of arrays of chars to a function?
+Sharing an $http object between controllers through a service
+Cannot get Eclipse to recognize Sony Xperia under Linux
+load viewController from class in swift
+How to round off a variable to n decimal places in c++
+Fix Code custom ListView
+$(document).ready called twice in IE 9
+Error connecting to Web Service in C#
+C++ <algorithm>: copy map<A,B> to cout?
+Function username_exists() can't be accessed without logging in to wordpress
+Regex on Java: avoiding unnecessary "greedy" strategy by Matcher class
+ddsmoothmenu, change sub-menu start height relative to parent menu
+pseudo streaming
+purpose of using myisam
+editor template return null value
+My PHP echo at the top of the page
+Cloudfront redirect www to naked domain with ssl
+Why does Pandas DataFrame Resample change column Order
+Is it possible to provide a runtime value to StringLength validator in MVC 3?
+Redirect while clearing referrer. php if possible
+ASP.NET MVC 2: ViewData.Model.ExecuteResult not existing
+Handsontable Sorting Integers Like Strings
+How can I tell if a variable is wrapped in jQuery or not?
+Precision issues with Visual Studio 2010
+Include WorkItems in TFS Build Report
+Vector always 0 in beginning of function?
+Getting the object with the highest member value in hql?
+What is eating my memory? (The SAW, JS mem usage edition)
+Subsequent Launch after uncalled onDestroy shows a blank screen
+Generating filename using given string
+UITableView - setting cell contents based on index path
+SCons: how to add cpp files to source list
+search anchor tag from XML and get its href property
+Variable in trigger doesn't work for me
+Inheriting default ComboBox to change border color or disable it
+Convert all the character in a string to "*"
+Suggest a good method for having a number with high precision in C#
+What is the proper function for comparing two C-style strings?
+iOS 9 UIImageView scaling is erratic
+Non-const copy constructor
+How to output a multi-index DataFrame in latex with pandas?
+javascript carousels: change position or scroll offset?
+Is creation of subdomain the only way?
+Center a div with fixed menu on the side
+Reload TableView data from UItableviewcell
+PHP-How to choose XML section based on an attribute?
+Simple navigation through pages spring
+how to send a vector of string in mpi?
+Manually handle error validation in Spring annotated controller
+IBM WAS 8.5.5 Admin Console is slow and blank page appears after saving changes
+~Portrait and ~Landscape not work when use imageNamed in iOS7?
+Store data in array from input
+Error with mysql_fetch_array() (CLOSED)
+Addition going wrong in Python
+Splitting an external array to give different titles
+System.IO.FileInfo Case Insensitive Search
+Ember data create record and add incrementProperty/decrementProperty on additional clicks
+CKEditor and Simple Uploads Plugin with Ruby
+MySql OUT Parameter in Create Procedure not compiling
+Getting iPhone Auto-Lock Setting
+Dependency Injection / LoD
+Initializing Exception error when using Mockito with PowerMock
+Need help in Pivoting
+MVC5: Can @Html.TextBoxFor (or EditorFor) get its MaxLength from the Model's Data Annotation?
+Security architecture advice for non-web application
+jquery modal dialog loads xhtml page but not closing
+Radio Buttons that fill input from value
+Disabling logging on PDFBox
+How to show webcam capture in Plone site using OpenCV?
+Issue at resizing TableViewCell and UIImageView
+how to writing a cmake Module for jsoncpp?
+Adding custom Exercise Environment blocks in reStructured Text
+Excel Addin development debugging failure in C# 2010
+Learning web programming
+Finalize media using IMAPI
+Passing symbol value using DFSORT to file
+Marklogic Wrong count and Facet result Xquery
+PHP and Importing pylab
+ActiveAdmin with PaperClip
+Converting two regex into one in PHP?
+Get Text of Form Field
+TCP connection refused when using ffserver / ffmpeg
+apple-jdbc-web server
+htmlParse - inner text
+Confluence is not showing styles when running behind apache
+Multiple Similar Sites with GIT? Or some other version control?
+First match from google places api search
+How to make the amazing Hibernate framework provide a connection object from its session?
+C# Windows Universal Application consuming WebAPI gives Unauthorized response
+How to use boost::program_options to accept an optional flag?
+GetAddrInfo example from Wikipedia won't work
+Password protect a page?(with db access)
+Hive Query Execution Error, return code 3 from MapredLocalTask
+Copy table structure to new table in sqlite3
+FB APP: allow inapp invites to non app using fb users
+CakePHP, model->save() after model->read(), field "modified" not automagically set though not present in data
+ASP.NET custom MembershipProvider
+How to make div size width depending on child element size
+Android Calendar "Grid of Dates"
+In Java, how do I extract a password from a HttpServletRequest header without generating a String object?
+How split a dynamic list depends of a number of elements with Jquery?
+error loading svm learning configuration file in gate tool
+Protractor + AngularJS + Jasmine get output results on xml file
+ExecuteReader returns no results, when inspected query does
+Azure Storage Table size
+Send data to iPhone App without waking it up
+Help me with a simple newsletter subscription form?
+UDPClient not receiving multicast data C# ASP.net
+How to compare generic nodes in a linked list using Comparable?
+hidding table rows classic asp
+Need Signup wizard help in asp.net application
+How set default opened JQuery UI tab another than first
+Evaluating property equality in Nant
+Large mysql insert statement
+DOS Batch script return code not being returned to caller
+Keep feedback button to the right when horizontal scroll occurs
+What are the pitfalls of an embedded connection to Derby over a network?
+getting 2 elements from xml
+WPF: even if UpdateSourceTrigger == Explicit, source value is changed when binding is set
+Tweet Button to tweet URL without http://www
+Spreadsheet XML creating a parent/child hierarchy in XSLT
+Confused about java properties file location
+Prevent browser form-resubmission alert
+jQuery Validation - Hide error message and don't submit the form
+How to find out if a file is a directory (optimal way)
+PHP contact form layout not allowing new line in email
+perl dbi reconnect on disconnect
+Getting linking error: Some Makefile Issue
+How can I generate HTML documents using `godoc`?
+STL containers move semantics and return by value: how many times of copying get avoided away?
+How to avoid $digest already in progress during testing
+STL function like sort
+Why is my DataList flow still outputting a table?
+How do you copy from tmux (copy mode) running on a remote ssh connection to your local clipboard
+how can I make delete the textfield when i long pressed it.?
+How to call a managed DLL from native Visual C++ code in Visual Studio 2008
+Implementing multiple properties in different namespaces
+Response time for a vxml application
+How to get all possible paths in a tree model
+ssh-add when ssh-agent fails
+Returning the value that for statement prints
+Loosely couple a modal dialog - is this possible?
+Nth child selector
+Making a server call when the home button is pressed
+Android ImageView dynamic width and height
+The final local variable checkstate cannot be assigned, since it is defined in an enclosing type
+jquery ui version issues
+Cannot use object of type stdClass as array?
+Windows Phone - Finding child items within canvas
+Why is my Webapplication (WAMP) slow if I request it multiple times with one Browser/Session?
+Facebook Group Invite from Website
+SQL Query -- update many records from 1 record in same table
+How can I enable auto-updates in a Qt cross-platform application?
+Trying to implement VBOs in OPENGL 2 on API 8 (2.2)
+Symfony 2.5 - Get form fields options from listener
+javascript problems when generating html reports from within java
+C#, WPF, Visual Studio 4: irregular shape color filling
+Application should not display in recent app list after finish the activity if app was not displaying recent app list previously
+chinese text to speech Translation in offline mode in iPhone
+How can I get interactive Python to avoid using readline while allowing utf-8 input?
+Group by and show all rows
+Small CSS image not displayed correctly
+invoke wcf web service using ksoap2 on android app failed with the following error java.net.SocketTimeoutException: Connection timeout
+Trying to create instance Application domain
+point _except_handler4_common couldnot located in msvcrt.dll in Windows XP
+Replace all characters in a string
+Using grunt on windows
+Android ComponentInfo ClassNotFoundException on some devices
+401 - "Could not authenticate you (header rejected by twitter)." when trying to upload a picture with PHP to TwitPic
+SQLite Table That Auto Increments Primary Key
+RecyclerView messed up data when scrolling
+python mysql can't catch the exception
+show createdAt attribute as "uploaded x hours x minutes ago"
+Does using calculated fields in Access increase efficiency
+TCP broadcast on iOS
+How to echo few lines only from a row named body saved in mysql?
+solve linear equations given variables and uncertainties: scipy-optimize?
+R Gimp Tool Kit Error
+How to prevent "This program might not have installed correctly" messages on Vista
+expand the width to cover up the whole window
+unable to return arraylist from backing bean method
+Adding a sub-application to an existing IIS application programmatically
+Why does my site not validate?
+"Failure to send mail" Error
+3.5 VS 4.0 .NET Framework
+Why I am not able to assign Default value ot my property using MVC2 in my asp.net mvc application
+Why can't Smarty load this block tag plugin
+Make Android connect to local database server
+What's $0 in nginx? (mod_rewrite)
+select specific number of results for a column value from DB
+Android Align Spinner to right of Textview
+display data from 2 joined tables in MVC
+Facebook Graph API, mark inbox as read?
+Obj-C: How to get and call a block argument from NSInvocation - stubbing Twitter account on iOS
+NSMutableArray of Strings
+asp.net-mvc shared menu code in table
+Python pty module usage example
+Function that dynamically construct a byte array and return length
+Java's Pattern/quote equivalent in ClojureScript
+Mother class attribute return NULL
+How to get points in stereo image from extrinsic parameters
+queryforall() is not working in the case of ormlite and sqlcipher
+What happen to my pre-installed JRE when I download a JDK?
+Android: Where must I put licenses of libraries being used?
+WCF Update Service Reference Error
+paginating the results of the index action
+Stop page redirecting to php script file when submitting form
+What is the equivalent of REGEXP_SUBSTR in mysql?
+What happened to the "<script defer>" hack in JQuery?
+Npm command not working
+Comparator in backbone requires the sort call when adding a new model?
+How do I check that a string contains a date?
+Odd characters in memory
+Passing only an element of a std::vector property to a BGL algorithm
+Adding support for dynamic file loaders in c#
+Android Webview IMG from string.xml getting exception
+Change Preference Item Summary Text Color in Android 4
+Unable to update JDialog GUI inside a thread
+Fragment over another fragment issue
+How to make this simple function generic in VB.NET?
+Handle WebPack CSS imports when testing with Mocha
+Creating new windows when using backbone.js and jQuery
+Can't add a js snippet from google trends into an HTML page
+Interpolate constant (not variable) into heredoc?
+Doesn't show symbol using own ttf
+Iterate through a list in Facelets
+Opengl ES 2.0: glGetShaderiv not changing params
+Sending a post request with HTML comment via AJAX issue
+How do I erase the background of a field when the user types something?
+why tesseract 3.0 does not recognize text inside box/rectangles/squares?
+Connection to MySQL via Vagrant not working anymore since El Capitan
+Valgrind memcheck result analysis of a bison/flex parser
+I'm trying to write a simple switch statement
+Percentage transform-origin for SVG not obeyed in Firefox, only sometimes in WebKit
+How to Unit test Textrenderer.DrawText method in C#
+vsftpd in a chrooted ubuntu environment on android
+Rails - Difficulty figuring out relationships/associations
+How to find a range matching certain conditions in a list using LINQ
+Creating XAdES signature in C++
+Recreate web page with XSLT?
+solaris - compile 64bit gcc - elf class error
+Pass Bool() value between dfferent swift targets
+A SQL Column of type decimal rounds the number 0,01 to 0
+Python calling method in class
+PC Regional and Language Settings are being ignored in .Net
+Writing first 100 prime numbers to a file using node.js
+What is the difference between JSON Web Signature (JWS) and JSON Web Token (JWT)?
+Access string property in multiple methods of C#.Net Console Application
+Retrieving object data from multiple tables help
+Get the frame of UITableViewCellAccessoryDetailButton (which is nil)
+Swedish characters giving potentially dangerous request.form value error on Ajax call
+Run PHP script in HTML5 app over server?
+how to get a sound notification in terminal once a job has been completed
+Git revert on published commits while maintaining ability to merge in future?
+Are state machines created in Windows Workflow Foundation 3.5 compatible with version 4.0?
+Laravel: Redirect to a named route that has parameters in URL
+What is cstyle in XSLT?
+Using photoshop files from web application
+What are the numbers in glib errors and warnings?
+NSOperation wait for dependency to complete success block
+Method needed to generate "Sparkle-Paint" textures in Blender 2.68
+input string was not in a correct format [C#]
+Is it possible and meaningful to execute an Array DML command containing BLOB data?
+Android string.xml error for every character I type
+Html DrawCanvas is null
+Java custom control rendered differently than in gui designer
+jquery blockUI and asp.net submit button
+asp.net mvc - value provider and collections
+How can I display discount amount?
+How can I adjust the indentation of a Virtual TreeView column when auto resizing?
+Parameter Overloading to avoid developer's mistakes and to follow a custome rule
+Wordpress get_image_tag filter - change image attributes?
+how to get the count of row values in php pdo
+Passing "*&" parameters to a function
+Rails Routes - Nested single resource with :id, NOT :resource-name_id
+SVN diff is not Happening?
+Exclude elements from click event handler (jquery)
+Android: No icon for Notification
+Eclipse Juno jar android dependencies issues
+Creating an image from a webpage
+Symfony 2 sample app?
+AspNetSqlMembershipProvider and PasswordRecovery Control
+CCS PICC CCP settings
+Best way for testing compiled code to return expected output/errors
+Is async/await useless in MVVM?
+FOR/AFTER in SQL triggers
+a tags doesnt work after sending mail with php
+How to bind a bean's method with package in actionListener?
+PhP Error: FUNCTION
+How to create a String array from an input.txt file
+ID not integer... EasyAPNS
+navigation Bar is not showing up completely in my modal View
+.Net and PHP Rijndael encryption not matching
+Angular not scoped method
+Smartgit not opening
+iPad using scrollTop with fixed navigation not functioning properly. Only works first time
+Store and retrieve images and data form JSON to local storage or SD card for Android and iPad App
+Why wont jQueryUI buttons and javascript work when I'm using will_paginate?
+multi server framework suggestion needed
+Using Requests python library to connect Django app failed on authentication
+Python command line tool can't understand subcommands
+Interacting with cPanel via PHP
+Create an opaque struct type using the LLVM OCaml API
+Errorlevel in batch file not working
+Show response from php in ajax
+C# list of "Type" that implements specific interface
+What's the type of a catamorphism (fold) for non-regular recursive types?
+MVVM UI Integration Mental Block
+Ruby sort_by with null values
+Google Calendar API on add event callback for sync
+Printing form from second form using printform
+How do I reference (make use of) WebKit-Sharp in OSX?
+dynamic values in linq query by other field and boolean value
+How to select checkbox through text while the name attribute is same for all checkboxes in the list?
+PL/SQL function while loop returning 1 row only
+Best way to transfer an Entity Framework object over the web and back via JSON
+Same string to multiple streams
+Create an executable jar for Swing app
+How do I check whether a variable is an integer in F#?
+Issue with Mobile landscape vs Tablet portrait
+making a custom shape using css
+How to bind data row by row in devexpress datagrid for silverlight 4
+Format wordpress posts to use post title in URL instead of numeric autoincrement?
+Adding the SQL Designer Table and Column Description as the class and property descriptions in Entity Framework 5
+Android, Can't bind port 67(dhcp) on my device
+redirect all .html extensions to .php
+Parse Push Notifications with Location IOS
+How do I output a compile-time numeric constant during compilation in Visual C++?
+3d element not working in Firefox
+Ajax update don't update my components
+How to add active class show/hide tabs?
+How to read xml in anchor tags of html page
+Euclidean distances between several images and one base image
+Intellij14.1 Error:No main class for module
+Issue with youtube upload using resumable c# code
+Derived-class constructor names being deprecated in PHP?
+GWT ViewWithUiHandlers with DialogBox Uibinder
+Post Image to Web Server in c# (The remote Server returned an error (500) Internal Server Error)
+How can I access the values of a np.array that is inside a function at the end of a loop?
+Angular.js html5mode(true) and normal anchor href links?
+Error in php mailer in php
+How to style a div to be a responsive square?
+More differences between 'read' permission and 'execute' permission (examples)
+Python: Finding a minimum value according to a dictionary
+I need to run two funcions onclick. I can't get them both to work even when nested together
+How to json data to data table in javascript
+Convert Object in xml with NSXmlParser
+I need to know how long the user has been idle
+How to Recover a deleted file on github that was not in my local repository
+how to share my python code to other?
+Python Budget Code Issue
+JavaScript to add HTML tags around content
+how to deal with read() timeout in Redis client?
+GWT Error: java.lang.NoClassDefFoundError: com/google/gwt/core/client/GWTBridge
+How to fix 'got multiple values for argument' error for *args and **kwargs?
+I'm trying to improve my HTML5 Component/Entity/Systems engine, to get as close as possible to the paradigm. What can be improved?
+Asterisk 1.8 BLF Subscription for External Program
+Center of an Image - Windows Phone
+R CMD install : clean libs before a new installation
+Codeigniter update query not working with form
+How to Create a HorizontalListView?
+IDXGISwapChain::ResizeBuffers triggers breakpoint when switching from fullscreen to windowed
+Is there a way to view GIS data in Google Glass?
+unwanted spam urls in ajax request
+Customize/modify Rails 3 resources routing
+How to use XPathNavigator and return different nodes?
+Why does Bike2.getTime() returns a 0 instead of a correct integer value?
+Hash 8-byte often ascending pointers to unique 8-byte integers in effectively random order?
+MVVM Light is too fast :)
+YUI DataSource.GET possible to use HTTP POST?
+Release controller, but keep empty pointer?
+"Background" task in palm OS
+What is the difference between these two selectors
+why does fclose not set file pointer to NULL?
+Dismiss MPMoviePlayerController on screen touch
+Revert button/input CSS to default
+Gulp doesn't write result to file
+How to use setInterval function within for loop
+Redis: Expire set element - members must be unique
+php date('d') calculates same output for two consecutive days
+Apply a class name in table
+using body parser to pass zip file
+Possible to have multiple SAME WCF window service on same machine
+Require a file to be checked in / merged in to two places in TFS 2010
+Implement basic Authentication for rest api using Jersey 2
+Text.Split after int (C#)
+Where do I store my django project code when using apache and mod_wsgi?
+How can I show values from two tables with one SELECT command in SQL?
+What is the C# equivalent to JAD?
+Raw Binary Tree Database or MongoDb/MySQL/Etc?
+insertHtml for GWT RichTextArea without exiting formatting
+IllegalArgumentException caught when parsing URL with JSON String
+c# Can I do this for "if"? or anyother way to doing sth like this?
+Inspiration on how to build a great command line interface
+while making an android app, do I have to make separate layout for tabs?
+python 2.7 defining a class that will show their attributes if called with no arguments
+Which is better for no-cache pragmas? Setting it in the header or metatags or both?
+Can't able to make my home page static in one of the theme in wordpress
+Setting params for stored procedure
+Entity's Navigation Properties are HashSets and can't be bound to a control
+Calling an activity from class which is extended to other class,which is extended from fragment
+Launch Failed. Binary not found. Compile and run C++ in eclipse for Java SE?
+using pfm/pfb custom fonts in my web site
+What is the fastest way to write hundreds of files to disk using C#?
+How to wrap <del></del> element around checkboxes with the values in jquery
+Java / Android rookie here, please help me
+TNS:listener does not currently know of service requested in connect descriptor
+Streaming live video from WCF service to Silverlight
+Round function php
+magento select attribute by using where condition
+How to 'kill' the threads from an executor?
+SoapExceptions error: The property 'Name' is read-only and cannot be modified or deleted. (SSRS)
+Foreign Key to multiple tables
+API to determine cell carrier?
+Changing compatibility level on SQL Server 2005 could be dangerous?
+Refreshing my JFrame
+Multiple File Upload using PHP JavaScript in to dynamic folder structure
+Can't find Uploaded folder in php?
+Add get image URL; within JavaScript Variable
+explicit instantiation ... but no definition available [-fpermissive]
+Removing index.php from url using .htaccess even if the user requests it
+Using gather to tidy dataset in R- attributes are not identical
+Looking back in the chain in RxJava
+Displaying only date from DateTime
+JAX-WS: How to Exclude a "member/field" in a Response Object (WS Response) that is inherited?
+Sql Server string to date conversion
+Confused by Android access control mechanism. It's DIFFERENT from java
+sync two divs for resizing
+Grails oauth plugin doesn't work
+Facebook access token validity
+how to build cado-nfs for intel xeon mic
+Braintree iOS SDK saying no known class method
+Effecientcy of using multiple subselects
+Convert /@<handle> to /users/profile/<handle> with nginx
+OpenMP parallel code slower
+Recursive call not in tail position when using for comprehensions
+how to use web service in android application using titanium to connect to mssql
+compiling and running through a command line
+sends information from the input field along with uploadify
+how to call to tableView from class method
+Fulltext search with <> characters
+get asp:textbox value in client side using javascript function doesn't work
+Get the JsonResult in ASP.net Function
+how to rotate an image in css3
+Pointing class property to another class with vectors
+Replacing one fragment with another
+algorithm for adding the diagonals on a square or rectangular matrix, starting rightwise
+build server/continuous integration tool
+HTML tags in prompt (JavaScript)
+The current request for action ... on controller type ... is ambiguous between the following action methods
+get id from a href and include in jquery
+Apk file Generation -Issue
+Vertical-Align in Internet Explorer 7
+How to logout on Facebook?
+Ndk-stack-trace tool not working on Windows
+Mongo explain result for aggregation pipeline gives different result as compared to normal query
+allocating memory sequencially in C
+Create Container view for Two UIViewController on iPad
+How to open the actual file from changeset details in Visual Studio 2012, and not some hashed read-only server copy?
+How to set multiple values for parameter in AFNETWORKING
+JMeter script only reflects status of last assertion in JTL log file
+Replace invalid image url with 404 image
+Android 4.1 read assert folder audio path issue
+SSIS fuzzy lookup with MySQL reference table
+Unsigned wrapped around Integer to the 'actual' value C
+How to delete the first row of a dataframe in R?
+Converting a ASP.NET MVC 3 Project to MVC 4
+Get the ID for an element when in status MouseOver
+What exactly Scatter Plot in Core Plot?
+GCC 4.6 seems not to working
+Simulating javascript behaviour for an applet, programatically
+Counting bits in a int - why does this code work?
+How can I use Springsource templates in Groovy on Grails Toolsuite?
+Using dapper to attach parameters with MySql
+SOAP: Invalid HTTPS client certificate path
+AFHTTPSessionManager POST request executes successfully but calls failure block
+How to File Upload csv to SQL database on intranet VB.NET site
+XML parsing in jquery doesn't seem to work for me
+Calculating Age from Date of Birth of people born before the start of java time
+htaccess throwing error on second RewriteRule
+Iterate Cypher results in Scala
+Update Command -Architecture Question
+awk - how two scripts interact with each other?
+Qt Designer code generation issue
+How to organize common reusable components (widgets) in Zend Framework 2
+BoxDetection Algorithm
+Django-piston: How can I get app_label + model_name?
+Node.js: How to check if folder is empty or not with out uploading list of files
+Redeclared class name class-key
+Get value from input fields through an array
+C++ Novice regarding Bitset operations with strings
+Rally Java API to pull just Team members from Project
+dereference pointer to DB in struct
+Regex to strip lat/long from a string
+Misbehaving JFlex rules - wrong rule matched
+How to pass a date function in a dynamic sql query in sql server
+A* pathfinding heuristic for static nodes
+why cant i invoke public method from a custom object returned from NSArray?
+Redirect in-IDE terminal for IntelliJ IDEA
+Trouble using/understanding JASidePanels control
+In Spring, how to declare a bean with the prototype scope?
+Using MPI_Gatherv() and MPI_Datatype to 'gather' dynamically allocated 2D arrays in C++
+Need some help combining 2 jQuery scripts and behaviors
+What are the uses of entire headers for forward declarations?
+mapping functions in dict
+Using react-router with typescript
+Calling Another Powershell Script With A Timeout
+PIVOKE Stackimbalance error
+Call method upon setting a declared public property
+Projecting subquery with query-over on a many-to-any mapping
+Android: Force closing for lack of permission which is located in the manifest
+How to concat two Strings with different textAppearance in a TextView?
+How does this JavaScript random number generator work?
+shopping cart in session how to set values, and remove values? PHP, MySQL
+date_diff returning crazy things
+Webservice in GAE, call from a C# client
+RadMenu hide submenu
+ORA-01036; illegal variable name/number
+spellcheck=true is not working in ie9
+refreshing a sprite in cocos2d android
+NoReverseMatch with {% url ... %} and keyword args
+SVN Checkout with @version $Id$ set
+Seeking recommendations for best RestKit/CoreData mapping and JSON structure for shallow routes
+Django OSQA + PyBBM
+Preg match all characters
+Format of packets of H264 video for raw\raw\udp STB
+Getting asp.net to store viewstate in the session rather than bulking up the html
+Python Redhat version issue
+What method is needed to find records with differing fields that occur a set number of times?
+Matlab - Sum of surrounding elements
+Implement cross domain communication
+How to close connection for Node.js http.createClient?
+Overlaying different species accumulation plots
+Trying to pass calculated values to a view without a controller
+Disable context menu items in Adobe PDF when in embedded mode
+how to give a table 100% height?
+How to center and fill main in html/css?
+Google Apps Script: Service invoked too many times in a short time: gmail rateMax. Try Utilities.sleep(1000) between calls
+Using QueryString to include pages
+How do I convert a CString to a BYTE?
+Where do you put non-controller, non-model code in a ASP.Net MVC project?
+Javascript Array Push Inside While Pop Loop
+Assign onclick="action" to text
+jersey2 Unit testing,HttpServletRequest is null
+select dropdownlist value from one table and display gridview data from another tables ASP.NET
+2 Storyboards and 1 PickerView
+Help with css selector for jquery
+Identify IDisposable objects
+charting platform
+StopPropogation - not working to disable parent anchor tags
+Why does QWidget disappear after promoted?
+Need to mousewheel scroll a usercontrol
+C#: Are nullable types (int?) objects?
+Django form input latex/equations?
+Compiler error undefined symbol
+Android stopping the previous mediaplayer?
+Why strings object are cached in python
+WinHttpCertCfg installs certificates to unknown location
+synch gs bucket with s3 bucket (lambda style)
+Overcoming generics put-get rule
+Develop "You are tring to download files too quickly" in my webpage
+Handle when IE window moves - Visual C++
+Securing with SSL?
+Why does an allocator interface-encapsulating nested class of a "list" implementation benefit from also encapsulating a node?
+sqlite on portable class library
+Sencha: Cannot call method 'getHeader' of undefined
+OpenCV: Libradies to Include for the first "Hello World Project"
+Disable save file for default image in a picturebox C#
+how to modify this jquery syntax
+User current time
+AngularJs - How should I detach a modal window?
+Ubuntu - change tmux 1.8 to tmux-next 1.9
+Grunt task to concat JS pr folder
+How to handle error in Primefaces lazy load?
+filepicker.exportFile() with basic authentication
+.htaccess conditional rewriting .html to .php
+Printing back and fourth
+Inline templated functions
+Why can't I in python call HDIO_GETGEO?
+How to create a load splitting scenario? in JMeter
+Unit test terms
+Is there a standard for generating well formatted forms?
+UITableViewController not redrawing new cell text label after popViewControllerAnimated
+Recommendation based on Item History
+Why won't my playlist work?
+c# whitespaces issue with XmlReader
+real time subprocess.Popen via stdout and PIPE
+Google Translate API different translations
+what is "the angularjs way" to apply sequential effects?
+Javascript loaders with jQuery
+ASP issue in retrieving datas
+NSManagedObjectContextDidSaveNotification not being dispatched
+Rails: Vhost config for Apache and Passenger
+IIS7 web server custom errors - works on local but not when published to production
+form notification html css
+Grails 2.0 depedencies NoClassDefFound issue
+Function unpack() shows different results
+dll in Eclipse build path giving error
+android websocket connection timeout with wAsync (atmosphere)
+Wordpress Plugin development
+transforming IO String to String
+how to check what JavaScript functions have been called in firebug
+MDX Calculated Member
+Image Direction - iOS metadata
+Can't set up neo4jDjango graph database: object has no attribute 'db_type'
+Ant scp task error
+Binding UserControl to a NULL DataContext
+C# : overloading constructors with optional parameters & named arguments?
+How to update EF entity, when passing modified entity as a parameter?
+Compare two files with Aptana
+datatables external form filtering
+Compute percentage for bigdecimals
+Map object list in jsp
+Break while loop every 3 iterations
+Rewrite query string in url
